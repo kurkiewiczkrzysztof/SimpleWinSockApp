@@ -1,0 +1,10 @@
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\bin\Debug\KlientCSharp.exe.config
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\bin\Debug\KlientCSharp.exe
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\bin\Debug\KlientCSharp.pdb
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\obj\Debug\KlientCSharp.csprojResolveAssemblyReference.cache
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\obj\Debug\KlientCSharp.Form1.resources
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\obj\Debug\KlientCSharp.Properties.Resources.resources
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\obj\Debug\KlientCSharp.csproj.GenerateResource.Cache
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\obj\Debug\KlientCSharp.exe
+c:\users\slowo\documents\visual studio 2015\Projects\KlientCSharp\KlientCSharp\obj\Debug\KlientCSharp.pdb
+C:\Users\Slowo\Documents\Visual Studio 2015\Projects\KlientCSharp\KlientCSharp\obj\Debug\KlientCSharp.PotwierdzenieZakupu.resources

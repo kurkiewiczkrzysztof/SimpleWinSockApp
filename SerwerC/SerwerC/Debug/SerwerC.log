@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\slowo\documents\visual studio 2015\projects\serwerc\serwerc\source.cpp(62): warning C4273: 'asctime': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note: see previous definition of 'asctime'
+c:\users\slowo\documents\visual studio 2015\projects\serwerc\serwerc\source.cpp(135): warning C4551: function call missing argument list
+c:\users\slowo\documents\visual studio 2015\projects\serwerc\serwerc\source.cpp(123): warning C4101: 'odbierzdruga': unreferenced local variable
+c:\users\slowo\documents\visual studio 2015\projects\serwerc\serwerc\source.cpp(208): warning C4101: 'str2': unreferenced local variable
+c:\users\slowo\documents\visual studio 2015\projects\serwerc\serwerc\source.cpp(214): warning C4101: 'buffer': unreferenced local variable
+c:\users\slowo\documents\visual studio 2015\projects\serwerc\serwerc\source.cpp(293): warning C4551: function call missing argument list
+c:\users\slowo\documents\visual studio 2015\projects\serwerc\serwerc\source.cpp(318): warning C4101: 'watek': unreferenced local variable
+  SerwerC.vcxproj -> C:\Users\Slowo\Documents\Visual Studio 2015\Projects\SerwerC\Debug\SerwerC.exe
